@@ -24,3 +24,7 @@ First we planned on applying a treshold on this probabilities to see if the cell
 
 One of the main studied qualities of the original game of life is the emergence of complexity, which is the emergence of complex behaviour from simple parts, an important detail is that one could not predict the complex behaviour from knowing the rules that govern the smaller parts.
 In this project we want to discover the change in the cellular automata's behaviour and the different dynamics that arise from allowing the intrinsic probabilistic nature of quantum computing take the spotlight. Complex organized behaviour in this mondel is not perceivable because due to the probability based rules, a single initial state may lead to multiple outcomes, but the interactions between simple objects and complex dynamics as a result is there.
+
+# The repository
+
+The final submission is the notebook QuantumGameOfLife.ipynb, the gif file is an example made with a 16 by 16 grid and the exploration folder has a lot of scrapped ideas and previous versions of the final code.
